@@ -51,7 +51,9 @@ interface = gr.Interface(
 interface.launch(share="True")
 ```
 OUTPUT:
-Screenshot 2024-11-24 231014
+
+![389333835-b7e5b157-4687-4aa9-b810-9264add71b97](https://github.com/user-attachments/assets/6c85a50f-abd3-4048-9bab-f2ff04e61853)
+
 
 RESULT:
 The "Chat with LLM" application successfully enables interactive text-based communication with a large language model, offering a streamlined and visually appealing interface for users.
